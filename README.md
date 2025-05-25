@@ -5,7 +5,7 @@ This project implements a custom transport protocol designed specifically for vi
 ## Project Structure
 
 ```
-MAIN
+video-streaming-transport-protocol
 ├── src
 │   ├── main.py
 │   ├── protocol
