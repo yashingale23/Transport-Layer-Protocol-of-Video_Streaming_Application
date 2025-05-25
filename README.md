@@ -1,6 +1,6 @@
 # Video-Streaming-Transport-Protocol
 
-This project implements a custom transport protocol designed specifically for video streaming applications. The protocol addresses varying network conditions, minimizes jitter, and ensures smooth playback, making it suitable for real-time video delivery.
+This project implements a custom transport protocol designed specifically for video streaming applications. The protocol addresses varying network conditions, minimizes jitter, and ensures smooth playback, making it suitable for real--time video delivery.
 
 ## Project Structure
 
